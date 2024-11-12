@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "e6e9efda1e4cb1d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "df1ddf4d7158e8d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "897b97b2edcd2d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modulos/Aquitetura de Solucoes/ARQ-SOLU MODULO 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARQ-SOLU MODULO 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf2599ee260362b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9a0f5c730f3af14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14e1a5fd21c80694",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "280754795627ecea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c9c8f56113d8d83e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b657ca1857e45d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec47c46afab28d1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78047c0b6ef0080d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aulas ao vivo/Primeira aula interativa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Primeira aula interativa"
+            }
+          },
+          {
+            "id": "bffd17f90ab76ed1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aulas ao vivo/Primeira aula interativa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Primeira aula interativa"
+            }
+          },
+          {
+            "id": "a565571c66703841",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "186c71478c0164c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aulas ao vivo/Primeira aula interativa.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Primeira aula interativa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "897b97b2edcd2d41",
+  "lastOpenFiles": [
+    "Modulos/Aquitetura de Solucoes/Ferramentas de segurança DLP e Criptografia Dados.md",
+    "IMGS/Pasted image 20241111173600.png",
+    "Modulos/Aquitetura de Solucoes/ARQ-SOLU MODULO 2.md",
+    "IMGS/Pasted image 20241111172502.png",
+    "IMGS/Pasted image 20241111172529.png",
+    "IMGS/Pasted image 20241111172323.png",
+    "IMGS/Pasted image 20241111160353.png",
+    "Modulos/Aquitetura de Solucoes/Fundamentos e Conceitos sobre Segurança da Informação e Segurança Cibernética.md",
+    "IMGS/Pasted image 20241111155055.png",
+    "Modulos/Aquitetura de Solucoes/Ativos e Passivos de Redes.md",
+    "Modulos/Aquitetura de Solucoes/Arquitetura - Tecnologia - Modelos e Protocolos de Rede.md",
+    "Modulos/Aquitetura de Solucoes/Fundamentos e Conceitos Redes de Computadores.md",
+    "Modulos/Aquitetura de Solucoes/ARQ-SOLU MODULO 3.md",
+    "Modulos/Aquitetura de Solucoes/Defesa em Profundidade.md",
+    "IMGS/Pasted image 20241111151823.png",
+    "IMGS/Pasted image 20241111152553.png",
+    "Aulas ao vivo/ARQ-SOLU-MOD-1/Segunda Aula Interativa.md",
+    "pos-xpe-arquitetura/Masterclasses.md",
+    "pos-xpe-arquitetura/INFOS POS XPE.md",
+    "pos-xpe-arquitetura/Projetos Finais/Projeto Arquitetura de Soluções.md",
+    "pos-xpe-arquitetura/Projetos Finais/Projeto Arquitetura de Soluções IA.md",
+    "pos-xpe-arquitetura/Projetos Finais/Projeto Arquitetura de Software.md",
+    "pos-xpe-arquitetura/Projetos Finais/Projeto Aplicado.md",
+    "pos-xpe-arquitetura/Projetos Finais",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Software/ARQ-SOFT MODULO 4.md",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Software/ARQ-SOFT MODULO 3.md",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Software/ARQ-SOFT MODULO 2.md",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Software/ARQ-SOFT MODULO 1.md",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Software/ARQ-SOFT MODULO 0.md",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Solucoes IA/ARQ-SOLU IA MODULO 4.md",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Solucoes IA/ARQ-SOLU IA MODULO 3.md",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Solucoes IA/ARQ-SOLU IA MODULO 2.md",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Solucoes IA/ARQ-SOLU IA MODULO 1.md",
+    "pos-xpe-arquitetura/Modulos/Aquitetura de Solucoes/Soluções Multicloud.md",
+    "pos-xpe-arquitetura/Modulos/Aquitetura de Solucoes/Pasted image 20241104174000.png",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Software",
+    "pos-xpe-arquitetura/Modulos/Arquitetura de Solucoes IA",
+    "pos-xpe-arquitetura/Modulos/Aquitetura de Solucoes",
+    "pos-xpe-arquitetura/Modulos",
+    "pos-xpe-arquitetura/IMGS/Pasted image 20241105194007.png",
+    "pos-xpe-arquitetura/IMGS",
+    "pos-xpe-arquitetura/Aulas ao vivo/ARQ-SOLU-MOD-1",
+    "pos-xpe-arquitetura/Aulas ao vivo",
+    "pos-xpe-arquitetura/LICENSE",
+    "pos-xpe-arquitetura"
+  ]
+}
