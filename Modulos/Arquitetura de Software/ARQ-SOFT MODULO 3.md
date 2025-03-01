@@ -1,5 +1,5 @@
 ● [[Introdução à Programação Orientada a Objetos]]
-● [[Princípios SOLID]]
+● [[pos-xpe-arquitetura/Modulos/Aquitetura de Solucoes/Princípios SOLID]]
 ● [[Design Patterns]] (Padrões de Projetos)
 ● [[Clean Architecture]]
 ● [[Arquitetura Hexagonal]]
